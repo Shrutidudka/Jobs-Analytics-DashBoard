@@ -1,4 +1,6 @@
 # Jobs-Analytics-DashBoard
+![WhatsApp Image 2024-06-17 at 5 10 22 PM](https://github.com/user-attachments/assets/a5ed6681-c283-4f68-bf69-617560b5da93)
+
 STEPS OF DATA SCRAPPING FROM THE LINKEDIN WEBSITE
 
 Setting Up: The code imports libraries to control a web browser and work with data. It stores your LinkedIn username and password. It sets up a tool to control the Chrome web browser.
@@ -28,7 +30,9 @@ Here the code file link :codeforwebscraping.ipynb
 
 Dashboard 2
 
-er diagram final
+er diagram final 
+![Entity_Diagram](https://github.com/user-attachments/assets/5ee47fa7-e910-4daa-aa3d-782a1637c6d7)
+
 
 STEPS FOR DATA CLEANING :
 
@@ -58,4 +62,5 @@ Saving Cleaned Data to CSV: Saved the cleaned and separated DataFrames into indi
 
 Dashboard 2
 
-Pinterest-Pioneers_074/README.md at
+![Dashboard 2](https://github.com/user-attachments/assets/fc324fab-67f2-4c43-b81a-8406803813e7)
+
