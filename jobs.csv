@@ -1,0 +1,317 @@
+job_id,company_id,location,designation,details_id
+1,1,India,Data Analytics Intern,1
+2,2,"Delhi, India",Python Developer,2
+3,3,"Delhi, Delhi, India",Software Analyst - Power BI,3
+4,4,"Delhi, India",Postgres DB,4
+5,5,India,Data Analyst,5
+6,6,India,Python Developers,6
+7,7,APAC,Junior Software Engineer,7
+8,8,India,Data Analytics Intern,8
+9,9,India,Python Developer,9
+10,10,India,Python Data Analyst,10
+11,11,India,Data Scientist,11
+12,12,"Delhi, India",Data Scientist,12
+13,13,"Delhi, Delhi, India",Data Analyst - Associate/Analyst,13
+14,14,"Dwarka, Delhi, India",Data Engineer (SQL) Intern,14
+15,15,India,Data Analytics Intern,15
+16,16,"New Delhi, Delhi, India",DB2 Database Administrator,16
+17,17,India,SQL Mentor,17
+18,18,"Delhi, India",Data Engineer,18
+19,19,India,Data and Analytics Support Engineer,19
+20,20,India,Junior Database Administrator (Fresher),20
+21,21,India,Remote Data Science Analyst (Python),21
+22,22,India,Python Data Analyst - Contract,22
+23,23,"Delhi, India",Data Engineer,23
+24,24,"New Delhi, Delhi, India",Data Analyst,24
+25,25,India,Data Analyst / Data Administrator,25
+26,26,"Delhi, India",Administrator,26
+27,27,Greater Delhi Area,Data Analyst,27
+28,28,India,Analyst,28
+29,29,"New Delhi, Delhi, India",Partner Growth Executive,29
+30,30,India,Data Analyst,30
+31,31,India,Data analyst_Dream hiring,31
+32,32,"New Delhi, Delhi, India",Senior Dotnet Developer,32
+33,33,"Delhi, Delhi, India",WeCredit - Python Developer - Flask/Django,33
+34,34,India,Data Scientist,34
+35,35,India,Research Analyst,35
+36,36,"Delhi, India",Manager - Data Science,36
+37,37,"Delhi, India",Solutions Architect : Data & AI,37
+38,38,"Delhi, Delhi, India",Software Engineer-C++ Python,38
+39,39,India,Python Data Engineer/ Immediate joiner(Python- Airflow-SQL),39
+40,40,India,Business Analyst,40
+41,41,"Delhi, Delhi, India",Analyst,41
+43,43,"Delhi, India",Manager - Data Science,43
+44,44,"Delhi, Delhi, India",Innefu Labs - Python Developer - Flask/Django,44
+45,45,"Delhi, India",DevOps Manager,45
+46,46,India,Data Analyst,46
+47,47,India,SQL Developer,47
+48,48,"South Delhi, Delhi, India",Program Manager - Monitoring & Evaluation,48
+49,49,"Delhi, India",Planning/Program Controls Manager,49
+50,50,"Delhi, India",Senior Alfresco Platform Engineer,50
+51,51,"Delhi, India",Python Developer,51
+52,52,"Delhi, India",Python Developer,52
+53,53,"Delhi, India",Python Developer,53
+54,54,"Delhi, India",Software Engineering Manager,54
+55,55,India,AI Developer (Python),55
+56,56,India,Python developer,56
+57,57,"Pune, Maharashtra, India",Data Analyst,57
+58,58,India,Data Analyst,58
+59,59,"Hyderabad, Telangana, India",Data Analyst,59
+60,60,Mumbai Metropolitan Region,Data Analyst,60
+61,61,India,Data Analyst / Data Administrator,61
+62,62,"Pune, Maharashtra, India",Data Analyst I,62
+63,63,"Delhi, Delhi, India",Remote Python Developer,63
+64,64,Greater Kolkata Area,Junior Data Engineer,64
+65,65,"Pune, Maharashtra, India",Data Analyst II,65
+66,66,"Mumbai, Maharashtra, India",Tableau Analyst,66
+67,67,"Pune, Maharashtra, India",Software Engineer - Data Scientist,67
+68,68,Greater Kolkata Area,Remote Data Science Analyst (Python),68
+69,69,Greater Chennai Area,Remote Data Science Analyst,69
+70,70,"Pune, Maharashtra, India",Data Analyst III,70
+71,71,"Madha, Maharashtra, India",Data Analyst,71
+72,72,"Pune, Maharashtra, India",Data Engineer,72
+73,73,"Pune, Maharashtra, India",Data Science Engineer 1,73
+74,74,"Pune, Maharashtra, India",Software Engineer - Data Scientist,74
+75,75,Greater Hyderabad Area,Remote Data Science Analyst (Python),75
+76,76,Mumbai Metropolitan Region,Remote Data Science Analyst (Python),76
+77,77,Mumbai Metropolitan Region,Data Analyst,77
+78,78,"Pune, Maharashtra, India",Data Engineer,78
+79,79,"Pune, Maharashtra, India",Software Engineer,79
+80,80,"Pune, Maharashtra, India","SQL Developer, Data Engineer",80
+81,81,"Pune, Maharashtra, India","Data Engineer II (SQL, ETL, AWS, Snowflake)",81
+82,82,"Pune, Maharashtra, India",Software Engineer - SQL,82
+83,83,Mumbai Metropolitan Region,Index Data Research Analyst / Junior Analyst,83
+84,84,"Pune, Maharashtra, India",Software Engineer - Data Scientist,84
+85,85,"Delhi, Delhi, India",Remote Python Solutions Developer,85
+86,86,Greater Kolkata Area,Remote Data Science Analyst,86
+87,87,"Pune, Maharashtra, India",Data Engineer: Data Platforms-AWS,87
+88,88,"Pune, Maharashtra, India",Application Developer: Microsoft Analytics,88
+89,89,"Pune, Maharashtra, India",Python Developer,89
+90,90,"Nagpur, Maharashtra, India",Senior Data Engineer (Remote),90
+91,91,"Pune, Maharashtra, India",Python Developer - Remote,91
+92,92,"Pune, Maharashtra, India",Site Analytics - Adobe Implementation - Lead Analyst,92
+94,94,"Pune, Maharashtra, India",Software Engineer - Data Scientist,94
+95,95,Greater Chennai Area,Remote Data Science Analyst,95
+96,96,Greater Bengaluru Area,Remote Data Science Analyst,96
+97,97,"Pune, Maharashtra, India",Data Engineer: Big Data-AWS,97
+98,98,"Pune, Maharashtra, India",Supply Chain Data Analyst,98
+99,99,Mumbai Metropolitan Region,Data Analyst,99
+100,100,"Pune, Maharashtra, India","Associate Data Analyst, Proximic",100
+101,101,"Bengaluru, Karnataka, India",Senior Data Analyst - Data Engineering/Analytics,101
+102,102,"Pune, Maharashtra, India",Reference Data Analyst,102
+103,103,"Bengaluru, Karnataka, India",Senior Data Analyst - Data Engineering/Analytics,103
+104,104,Mumbai Metropolitan Region,Remote Data Science Analyst,104
+105,105,Greater Kolkata Area,Remote Data Science Analyst,105
+106,106,Mumbai Metropolitan Region,Data Analyst with Axiom/SQL/Python or scripting language experience-BFS026419,106
+107,107,"Delhi, India",Business Intelligence Consultant,107
+109,109,"Pune, Maharashtra, India",Data Ingestion Engineer,109
+110,110,"Pune, Maharashtra, India",Python Developer,110
+112,112,"Pune, Maharashtra, India",BI Analyst - Team Lead,112
+113,113,"Pune, Maharashtra, India",TADS Governance Data Analyst,113
+114,114,Greater Bengaluru Area,Remote Data Science Analyst (Python),114
+115,115,Greater Chennai Area,Remote Python Developer,115
+116,116,"Pune, Maharashtra, India",Package Consultant: Adobe Marketing & Analytics,116
+117,117,India,Senior Data Analyst,117
+118,118,India,Client Insights Analyst,118
+119,119,Mumbai Metropolitan Region,Senior Data Analyst,119
+120,120,"Pune, Maharashtra, India",VP - Data Engineering Group - Lead Data Engineer,120
+121,121,"Pune, Maharashtra, India",Data Analytics Senior Analyst - C12 - PUNE,121
+122,122,"Pune, Maharashtra, India",Lead Analyst - Analytics Delivery,122
+123,123,"Mumbai, Maharashtra, India",Equity Quant Researcher Analyst,123
+124,124,India,Credit Business Risk Manager,124
+125,125,India,Relationship Manager-Motor Insurance,125
+126,126,India,Support Specialist (Phone),126
+127,127,India,"Associate II, Import/Export",127
+128,128,India,Onsite Associate,128
+129,129,India,[Part Time] [Urgent] Rummy Game Players,129
+130,130,APAC,Customer Service Manager,130
+131,131,India,Executive - Terminal Operations - Rail & Inland Terminals - Hyderabad,131
+132,132,India,Data Analyst,132
+133,133,India,Associate,133
+134,134,India,Personalized Internet Assessor India - Kannada Language,134
+135,135,India,Teammate,135
+136,136,India,Vendor Management Coordinator,136
+137,137,India,Procurement Specialist,137
+138,138,"Pune, Maharashtra, India",Quality Assurance Lead,138
+139,139,"Pune, Maharashtra, India",DevSecOps,139
+140,140,"Pune, Maharashtra, India",MBSE CAMEO,140
+141,141,"Pune, Maharashtra, India",Automation Technician,141
+142,142,"Pune, Maharashtra, India","Risk Specialist II, TERA (Travel & Expense Reimbursement)",142
+143,143,"Pune, Maharashtra, India",Lead Consultant,143
+144,144,"Pune, Maharashtra, India",Senior Business Analyst - TD,144
+145,145,"Pune, Maharashtra, India",Associate Engineer,145
+146,146,"Pune, Maharashtra, India",Deputy manager,146
+147,147,"Pune, Maharashtra, India",Mobile Device Management SME,147
+148,148,"Pune, Maharashtra, India",Return to Career - India,148
+149,149,"Pune, Maharashtra, India",Lead Systems Engineer,149
+152,152,"Pune, Maharashtra, India",Senior Associate,152
+153,153,"Pune, Maharashtra, India","Manager, CL6-2",153
+155,155,"Pune, Maharashtra, India",Unit Manager - Administration/Senior Unit Manager - Administration,155
+156,156,"Pune, Maharashtra, India",ServiceNow-Manager,156
+157,157,"Pune, Maharashtra, India",Workday Consultant,157
+158,158,"Pune, Maharashtra, India",Manager - Projects,158
+159,159,"Pune, Maharashtra, India",Officer: Operations Support Specialist,159
+160,160,"Pune, Maharashtra, India",Performance Analyst,160
+162,162,"Pune, Maharashtra, India",Consultant,162
+164,164,"Pune, Maharashtra, India",Key Account Manager,164
+165,165,"Pune, Maharashtra, India",Project Lead,165
+166,166,"Pune, Maharashtra, India",Delivery Manager,166
+167,167,"Pune, Maharashtra, India",Operations Manager,167
+168,168,"Pune, Maharashtra, India","Technical Customer Support, II",168
+169,169,"Pune, Maharashtra, India",Work Place Services - Manager,169
+170,170,"Hyderabad, Telangana, India","Data Scientist, Product, Support Platform Data Science",170
+171,171,India,Data Analytics Intern,171
+172,172,"Hyderabad, Telangana, India",Data Analyst,172
+173,173,"Hyderabad, Telangana, India",Trainee Data Analyst,173
+174,174,"Hyderabad, Telangana, India",PowerBI Developer(B2C),174
+175,175,India,Python Developers,175
+176,176,APAC,Junior Software Engineer,176
+177,177,"Hyderabad, Telangana, India","Product Manager, Innovative Assets, Branded Markets CoE",177
+178,178,India,Data Analytics Intern,178
+179,179,"Hyderabad, Telangana, India",Python Application Developer,179
+180,180,"Hyderabad, Telangana, India",Trainee Data Analyst,180
+181,181,"Hyderabad, Telangana, India",Python Developer,181
+182,182,India,Business Analyst,182
+183,183,Greater Hyderabad Area,Consultant Specialist,183
+184,184,"Hyderabad, Telangana, India","Product Manager, Innovative Assets, Branded Markets CoE",184
+185,185,India,Data Analytics Intern,185
+186,186,"Hyderabad, Telangana, India",Python Application Developer,186
+187,187,"Hyderabad, Telangana, India",Trainee Data Analyst,187
+188,188,"Hyderabad, Telangana, India",Python Developer,188
+189,189,India,Business Analyst,189
+190,190,Greater Hyderabad Area,Consultant Specialist,190
+191,191,"Hyderabad, Telangana, India",Data Analyst,191
+192,192,Greater Hyderabad Area,Technical Specialist,192
+193,193,"Hyderabad, Telangana, India",Relationship Manager - Business Banking Group,193
+194,194,"Hyderabad, Telangana, India",Team Lead- Engineering Documentation,194
+195,195,Greater Hyderabad Area,Lead Consultant,195
+196,196,Greater Hyderabad Area,Technical Lead,196
+197,197,"Hyderabad, Telangana, India",Data Engineer,197
+198,198,"Hyderabad, Telangana, India",Data Analyst,198
+199,199,"Hyderabad, Telangana, India",Junior Python Developer Internship in Hyderabad,199
+200,200,India,Data and Analytics Support Engineer,200
+201,201,"Hyderabad, Telangana, India",Python Developer,201
+202,202,"Hyderabad, Telangana, India",Engineering Analyst,202
+203,203,India,Python Data Analyst - Contract,203
+204,204,"Hyderabad, Telangana, India",LTIMindtree Hiring- AWS DevOps - Hyderabad!,204
+205,205,"Hyderabad, Telangana, India",Data Analyst,205
+206,206,India,Data Analyst / Data Administrator,206
+207,207,Greater Hyderabad Area,Technical Lead,207
+208,208,India,Python devops,208
+209,209,"Hyderabad, Telangana, India",Software Architect,209
+210,210,India,Data Analyst,210
+211,211,"Hyderabad, Telangana, India",Data Analyst,211
+212,212,"Hyderabad, Telangana, India","Business Analyst, Youtube Trust and Safety",212
+213,213,"Hyderabad, Telangana, India",Python + Machine Learning,213
+214,214,"Hyderabad, Telangana, India",Information Security Manager,214
+215,215,"Hyderabad, Telangana, India",Python Developer (Fresher Graduate),215
+216,216,"Hyderabad, Telangana, India",Data Engineer,216
+217,217,"Hyderabad, Telangana, India","SQL, Data Analysis, Python",217
+218,218,"Hyderabad, Telangana, India",Python Developer,218
+219,219,"Hyderabad, Telangana, India",Data Analyst,219
+220,220,"Hyderabad, Telangana, India",Power BI Developer,220
+221,221,"Hyderabad, Telangana, India",Python Developer,221
+222,222,"Hyderabad, Telangana, India","Data Engineer, Overhead Imagery",222
+224,224,India,Data Scientist,224
+225,225,"Hyderabad, Telangana, India",Technical Lead,225
+226,226,"Hyderabad, Telangana, India",Sql Developer,226
+227,227,"Hyderabad, Telangana, India",Data Analyst,227
+228,228,"Hyderabad, Telangana, India",Dashboard Analytics,228
+229,229,"Hyderabad, Telangana, India",SW Engineer III,229
+230,230,India,Data or Business Analyst,230
+231,231,India,PLSQL / Data Analyst (Fulltime) - Remote Work,231
+232,232,India,Jr. Data Scientist,232
+233,233,India,Data Scientist,233
+234,234,India,Data Analyst,234
+235,235,India,Python Developers,235
+236,236,India,Python Data Analyst,236
+237,237,India,Data Analytics Intern,237
+238,238,India,Python Developer,238
+239,239,India,Remote Data Science Analyst (Python),239
+240,240,India,SQL Mentor,240
+241,241,India,Data and Analytics Support Engineer,241
+242,242,India,Junior Database Administrator (Fresher),242
+243,243,India,Analyst,243
+244,244,"Bhopal, Madhya Pradesh, India",Data Analyst,244
+245,245,India,Data Analytics Intern,245
+246,246,India,Data Analyst,246
+247,247,India,Python Data Analyst - Contract,247
+248,248,India,Data Analyst / Data Administrator,248
+249,249,India,Data analyst_Dream hiring,249
+251,251,India,Data Analytics Intern,251
+253,253,India,Business Analyst,253
+258,258,India,Data Analyst,258
+259,259,India,SQL Developer,259
+260,260,India,Junior Data Scientist,260
+261,261,"Bhopal, Madhya Pradesh, India",Data entry,261
+262,262,India,AI Developer (Python),262
+264,264,India,Python Developer,264
+265,265,India,Data Analyst,265
+266,266,India,SQL Developer,266
+267,267,India,Junior Data Scientist,267
+268,268,"Bhopal, Madhya Pradesh, India",Data entry,268
+269,269,India,AI Developer (Python),269
+271,271,India,Python Developer,271
+272,272,India,"ML Engineer, Part time, remote",272
+273,273,"Bhopal, Madhya Pradesh, India",Leraning Experience Leader,273
+275,275,India,SQL Developer,275
+277,277,India,Data Scientist,277
+278,278,India,Python Developer,278
+279,279,India,IT Trainee (Fresher),279
+280,280,India,Python Developer,280
+282,282,South Asia,Software Engineer - Data,282
+283,283,India,Data Analyst,283
+284,284,India,Business Analyst,284
+285,285,India,IT Business Analyst,285
+287,287,India,Research Analyst (Fresher),287
+289,289,India,Data Analyst Intern,289
+290,290,India,Data Analyst,290
+292,292,India,Junior Data Analyst,292
+293,293,"Bengaluru East, Karnataka, India",Python Developer (Fresher Graduate),293
+294,294,India,Data Analytics Intern,294
+295,295,"Bengaluru, Karnataka, India","Database Engineer, Cloud SQL Server",295
+296,296,"Bengaluru, Karnataka, India",Data Scientist,296
+297,297,"Bengaluru, Karnataka, India",Machine Learning Engineer,297
+298,298,India,Data or Business Analyst,298
+299,299,"Bengaluru, Karnataka, India",SQL Business Analyst,299
+301,301,"Bengaluru, Karnataka, India",Data Analyst,301
+302,302,"Bengaluru, Karnataka, India",Python Developer,302
+306,306,India,Data Analytics Intern,306
+308,308,India,Python Developer,308
+309,309,"Bengaluru, Karnataka, India",Python Developer,309
+310,310,"Bengaluru, Karnataka, India",Data Engineer,310
+311,311,"Bengaluru, Karnataka, India",Business Analyst,311
+312,312,India,Junior Database Administrator (Fresher),312
+313,313,"Bengaluru, Karnataka, India",Solution Architect,313
+314,314,"Bengaluru, Karnataka, India",Business Development Lead Advance Market,314
+315,315,India,Data Analytics Intern,315
+316,316,"Bengaluru, Karnataka, India",Data Scientist,316
+317,317,"Bengaluru, Karnataka, India",Full Stack Engineer,317
+318,318,India,Data and Analytics Support Engineer,318
+319,319,India,Analyst,319
+320,320,"Bengaluru, Karnataka, India","AI Data Scientist, AI Safety Protection",320
+321,321,"Bengaluru, Karnataka, India",Engineering Analyst,321
+322,322,"Bengaluru East, Karnataka, India",Data Scientist,322
+323,323,Greater Bengaluru Area,Analyst,323
+324,324,"Bengaluru, Karnataka, India",Data Analyst 1,324
+325,325,"Bengaluru, Karnataka, India",Data Engineer,325
+326,326,"Bengaluru, Karnataka, India",Site Reliability Engineer,326
+327,327,"Bengaluru, Karnataka, India",Data Engineer,327
+328,328,"Bengaluru, Karnataka, India",Data Analyst 2,328
+329,329,India,Data Analyst,329
+330,330,"Bengaluru, Karnataka, India",Data Analyst,330
+331,331,Greater Bengaluru Area,Data Engineer,331
+333,333,"Bengaluru, Karnataka, India",Salesforce Architect,333
+334,334,Greater Bengaluru Area,Associate Data Engineer,334
+335,335,"Bengaluru East, Karnataka, India",Healthcare Data Analyst,335
+336,336,"Bengaluru, Karnataka, India",Data Scientist,336
+337,337,"Bengaluru, Karnataka, India",Python Developer,337
+338,338,"Bengaluru East, Karnataka, India",Data Scientist,338
+339,339,"Bengaluru, Karnataka, India",Data Scientist,339
+340,340,"Bagalur, Karnataka, India",Data Scientist,340
+341,341,"Bangalore Urban, Karnataka, India",Team Lead Treasures,341
+342,342,"Bengaluru, Karnataka, India",Implementation Manager,342
+343,343,"Bengaluru, Karnataka, India",Data Scientist,343
+344,344,"Bengaluru, Karnataka, India",Trainee Business Analyst,344
+345,345,India,Business Analyst,345
+346,346,"Bengaluru, Karnataka, India","Junior, Data Scientist",346
